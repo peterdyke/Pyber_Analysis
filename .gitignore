@@ -1,5 +1,7 @@
 # Add Challenge Starter Code
 PyBer_Challenge_starter_code.ipynb
+.gitignore
+matplotlib_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
